@@ -1,4 +1,3 @@
+print("hello world")
 
-print("Hello world")
-
-print("This is the test code i dont know how tish will work")
+print("This I have typed in vim and checking for jenkins")
